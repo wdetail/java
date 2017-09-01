@@ -1,6 +1,6 @@
 package µ¥Àý;
 
-//¶öººÊ½
+//ÀÁººÊ½
 public class Singleton1 {
 	private Singleton1(){
 		

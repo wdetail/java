@@ -18,6 +18,9 @@ public class Adapter implements Target {
 		System.out.println("打开了eclipse ,  愉快的 学起了 Java ...   ");
 	}
 	
-	
+	@Override
+	public void play() {
+		System.out.println("打开了电磁炉 ,  开心的炒起了菜 ...   ");
+	}
 
 }

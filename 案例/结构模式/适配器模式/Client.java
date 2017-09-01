@@ -8,10 +8,13 @@ public class Client {
 		Adaptee adaptee220v = new Adaptee220V();
 		
 		Target target = new Adapter(adaptee220v);
+		Target target1 = new Adapter(adaptee110v);
 		
 		target.powerSupply();
 		target.learn();
 		
+		target1.powerSupply();
+		target1.play();
 	}
 
 }

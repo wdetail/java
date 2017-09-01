@@ -1,4 +1,4 @@
-package ╣з╟куб;
+package ╣з╬еуб;
 
 import java.util.Scanner;
 

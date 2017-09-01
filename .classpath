@@ -5,7 +5,12 @@
 	<classpathentry kind="src" path="案例"/>
 	<classpathentry kind="src" path="IO"/>
 	<classpathentry kind="src" path="作业"/>
+	<classpathentry kind="src" path="银行"/>
+	<classpathentry kind="src" path="多线程"/>
+	<classpathentry kind="src" path="常用"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="lib" path="lib/commons-lang3-3.6.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.15.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

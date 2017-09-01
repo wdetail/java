@@ -3,7 +3,7 @@ package 序列化;
 public class Stu implements java.io.Serializable { //不实现 就没法 被序列化/可串行化的
 
 	private int id;
-	private String name;
+	private transient String name;//加密
 
 	public int getId() {
 		return id;
